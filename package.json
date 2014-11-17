@@ -1,0 +1,30 @@
+{
+  "name": "rest-format-opts",
+  "version": "1.0.0",
+  "description": "Parse request for format options",
+  "main": "index.js",
+  "dependencies": {
+    "negotiator": "^0.4.9",
+    "tape": "^3.0.3",
+    "request": "^2.48.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finnp/rest-format-opts.git"
+  },
+  "keywords": [
+    "rest",
+    "http",
+    "formats"
+  ],
+  "author": "Finn Pauls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finnp/rest-format-opts/issues"
+  },
+  "homepage": "https://github.com/finnp/rest-format-opts"
+}
